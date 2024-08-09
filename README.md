@@ -17,6 +17,9 @@ I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm pa
 
 ## 📊 GitHub Stats
 
+![GitHub followers](https://img.shields.io/github/followers/JonathanHelvey?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/JonathanHelvey?label=Stars&style=social)
+
 ![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanHelvey&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHelvey&layout=compact&theme=transparent)
