@@ -26,7 +26,6 @@ I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm pa
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JonathanHelvey&theme=transparent)](https://git.io/streak-stats)
 
-[![Jonathan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JonathanHelvey&theme=github-compact)](https://github.com/JonathanHelvey)
 
 ## 📫 Connect with Me
 
