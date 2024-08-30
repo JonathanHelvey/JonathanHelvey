@@ -30,5 +30,4 @@ I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm pa
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jonathanhelvey/)
-- [Portfolio](https://yourportfolio.com)
-- [Resume](https://yourresume.com)
+- [Portfolio](https://www.jonathanhelvey.com)
