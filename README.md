@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm passionate about building efficient and scalable web applications. Currently, I'm seeking opportunities that involve **JavaScript**, **React**, **Next.js**, or **Magento 2**.
+I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm passionate about building efficient and scalable web applications. Currently, I'm seeking opportunities that involve **JavaScript**, **React**, **Next.js**, **PHP**, or **Magento 2**.
 
 ## 🛠️ Technologies & Tools
 
@@ -20,12 +20,9 @@ I'm a **Full Stack Developer** specializing in **Magento 2** development. I'm pa
 ![GitHub followers](https://img.shields.io/github/followers/JonathanHelvey?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JonathanHelvey?label=Stars&style=social)
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanHelvey&show_icons=true&theme=transparent)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHelvey&layout=compact&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JonathanHelvey&theme=transparent)](https://git.io/streak-stats)
-
 
 ## 📫 Connect with Me
 
