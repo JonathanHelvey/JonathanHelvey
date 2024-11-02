@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-**Full Stack Developer** passionate about building efficient and scalable web applications. Currently, I'm seeking opportunities that involve **JavaScript**, **React**, **Next.js**, **PHP**, or **Magento 2**.
+**Full Stack Developer** passionate about building efficient and scalable web applications.
 
 ## 🛠️ Technologies & Tools
 
